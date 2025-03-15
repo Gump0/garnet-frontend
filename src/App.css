@@ -1,0 +1,52 @@
+body {
+    background: #d8dee9;
+    margin: 0;
+  }
+
+.wrapper {
+    background: linear-gradient(rgba(3, 19, 41, 0.3), rgba(0, 0, 0, 0.7)), 
+    url('./assets/background.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: auto;
+    width: 50%;
+}
+
+.hero-text {
+    color: #d8dee9;
+    font-size: 4rem;
+}
+
+button {
+    padding: 1rem 1rem;
+    font-size: 1.2rem;
+    color: #4c566a;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #4c566a;
+    color: #d8dee9;
+}
+
+/* LISTINGS STYLES */
+.titleText {
+    display: flex;
+    justify-content: center;
+    color: #3b4252;
+    font-size: 1.8rem;
+}
