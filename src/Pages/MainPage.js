@@ -1,8 +1,8 @@
 // HANDLES MAINPAGE
 import React from "react";
-import Hero from "./Hero.js"
-import Listings from "./Listings.js";
-import AboutUs from "./AboutUs.js";
+import Hero from "../components/Hero.js"
+import Listings from "../components/Listings.js";
+import AboutUs from "../components/AboutUs.js";
 
 const MainPage = () => {
     return (

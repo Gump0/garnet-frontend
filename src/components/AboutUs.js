@@ -23,10 +23,6 @@ const AboutUs = () => {
                     </p>
                 </div>
             </div>
-            <hr></hr>
-            <div className="about-us-container">
-
-            </div>
         </>
     )
 }

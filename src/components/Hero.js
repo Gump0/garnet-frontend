@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
     return (
@@ -8,7 +9,9 @@ const Hero = () => {
                 <p>IMPORT BAZAAR</p>
             </div>
             <div>
-                <button>OUR INVENTORY</button>
+                <Link to="/inventory"><button>OUR INVENTORY</button></Link>
+                <Link to="/contact"><button>CONTACT US</button></Link>
+                {/* THIS SCROLLS TO BOTTOM OF PAGE */}
                 <button>ABOUT US</button>
             </div>
         </div>
