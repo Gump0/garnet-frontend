@@ -5,7 +5,7 @@ const Hero = () => {
         <>
         <div className="centered">
             <div className="hero-text">
-                <p>IMPORT MARKET</p>
+                <p>IMPORT BAZAAR</p>
             </div>
             <div>
                 <button>OUR INVENTORY</button>
