@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/import-bazaar/static/css/main.844697e9.css",
-    "main.js": "/import-bazaar/static/js/main.afbbc7f3.js",
+    "main.js": "/import-bazaar/static/js/main.5dd452d1.js",
     "static/media/background.jpg": "/import-bazaar/static/media/background.ae71d78cf6740fc8b049.jpg",
     "static/media/bg-240sx.jpg": "/import-bazaar/static/media/bg-240sx.7c12ac47609a2549cb15.jpg",
     "static/media/bg-s2k.jpg": "/import-bazaar/static/media/bg-s2k.a8e6dba53fb5ca6e9864.jpg",
     "index.html": "/import-bazaar/index.html",
     "main.844697e9.css.map": "/import-bazaar/static/css/main.844697e9.css.map",
-    "main.afbbc7f3.js.map": "/import-bazaar/static/js/main.afbbc7f3.js.map"
+    "main.5dd452d1.js.map": "/import-bazaar/static/js/main.5dd452d1.js.map"
   },
   "entrypoints": [
     "static/css/main.844697e9.css",
-    "static/js/main.afbbc7f3.js"
+    "static/js/main.5dd452d1.js"
   ]
 }
