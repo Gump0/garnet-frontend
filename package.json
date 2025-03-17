@@ -1,6 +1,6 @@
 {
-  "name": "garnet-frontend",
-  "homepage": "https://github.com/Gump0/import-bazaar", 
+  "homepage": "https://github.com/Gump0/import-bazaar",
+  "name": "import-bazaar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
