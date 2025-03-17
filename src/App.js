@@ -6,13 +6,15 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
-      <Routes> 
-        <Route path="/" element={<MainPage />} />
-        <Route path="/inventory" element={<Inventory />} />
-        <Route path="/contact" element={<Contact />} />
-      </Routes>
-    </Router>
+    <>
+      <Router basename="/Gump0/import-bazaar">
+        <Routes> 
+          <Route path="/" element={<MainPage />} />
+          <Route path="/inventory" element={<Inventory />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </Router>
+    </>
   );
 }
 

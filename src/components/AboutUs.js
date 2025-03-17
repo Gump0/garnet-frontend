@@ -5,7 +5,7 @@ const AboutUs = () => {
         <>
             <div className="about-us-container">
                 <div className="about-us-icon">
-                    <img alt="About-Us-Image" src="/images/icon.png "/>
+                    <img alt="About-Us-Image" src={`${process.env.PUBLIC_URL}/images/icon.png`} />
                 </div>
                 <div className="about-us-text">
                     <h4>ABOUT US</h4>
