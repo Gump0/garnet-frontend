@@ -9,10 +9,9 @@ const Hero = () => {
                 <p>IMPORT BAZAAR</p>
             </div>
             <div>
-                <Link to="/inventory"><button>OUR INVENTORY</button></Link>
-                <Link to="/contact"><button>CONTACT US</button></Link>
-                {/* THIS SCROLLS TO BOTTOM OF PAGE */}
-                <button>ABOUT US</button>
+                {/* <button>OUR INVENTORY</button> */}
+                <Link to="/Contact"><button>CONTACT US</button></Link>
+                {/* <button>ABOUT US</button> */}
             </div>
         </div>
         </>

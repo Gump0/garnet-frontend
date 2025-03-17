@@ -2,6 +2,11 @@ import React from "react";
 import './Contact.css'
 
 const Contact = () => {
+    // clears input fields when button is clicked
+    const ClearInputFields = () => {
+        document.querySelectorAll(".user-input").forEach((input) => (input.value = ""));
+    };
+
     return (
     <>
         <div className="contact-container">
@@ -25,7 +30,7 @@ const Contact = () => {
                 <textarea rows="6" placeholder="Please enter message..." required className="user-input"></textarea>
                 </form>
             </div>
-            <button type="submit" className="send-button">Send Message</button>
+            <button type="submit" className="send-button" onClick={ClearInputFields}>Send Message</button>
     </>
     )
 };

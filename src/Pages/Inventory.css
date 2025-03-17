@@ -1,0 +1,25 @@
+.inventory-container {
+    position: relative;
+    height: 18vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+/* MAGIC TRANSPARENCY STUFF */
+.inventory-container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: url('/src/assets/bg-s2k.jpg');
+    background-position: center;
+    background-size: cover;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.inventory-text {
+    color: #4c566a;
+    font-size: clamp(1.75rem, 3vw, 3rem);
+}
