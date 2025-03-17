@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Gump0/import-bazaar/static/css/main.1ca119df.css",
-    "main.js": "/Gump0/import-bazaar/static/js/main.cc773542.js",
-    "static/media/background.jpg": "/Gump0/import-bazaar/static/media/background.ae71d78cf6740fc8b049.jpg",
-    "static/media/bg-240sx.jpg": "/Gump0/import-bazaar/static/media/bg-240sx.7c12ac47609a2549cb15.jpg",
-    "static/media/bg-s2k.jpg": "/Gump0/import-bazaar/static/media/bg-s2k.a8e6dba53fb5ca6e9864.jpg",
-    "index.html": "/Gump0/import-bazaar/index.html",
-    "main.1ca119df.css.map": "/Gump0/import-bazaar/static/css/main.1ca119df.css.map",
-    "main.cc773542.js.map": "/Gump0/import-bazaar/static/js/main.cc773542.js.map"
+    "main.css": "/import-bazaar/static/css/main.844697e9.css",
+    "main.js": "/import-bazaar/static/js/main.afbbc7f3.js",
+    "static/media/background.jpg": "/import-bazaar/static/media/background.ae71d78cf6740fc8b049.jpg",
+    "static/media/bg-240sx.jpg": "/import-bazaar/static/media/bg-240sx.7c12ac47609a2549cb15.jpg",
+    "static/media/bg-s2k.jpg": "/import-bazaar/static/media/bg-s2k.a8e6dba53fb5ca6e9864.jpg",
+    "index.html": "/import-bazaar/index.html",
+    "main.844697e9.css.map": "/import-bazaar/static/css/main.844697e9.css.map",
+    "main.afbbc7f3.js.map": "/import-bazaar/static/js/main.afbbc7f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ca119df.css",
-    "static/js/main.cc773542.js"
+    "static/css/main.844697e9.css",
+    "static/js/main.afbbc7f3.js"
   ]
 }
