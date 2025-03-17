@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gump0/import-bazaar/static/css/main.1ca119df.css",
+    "main.js": "/Gump0/import-bazaar/static/js/main.7b99b1cd.js",
+    "static/media/background.jpg": "/Gump0/import-bazaar/static/media/background.ae71d78cf6740fc8b049.jpg",
+    "static/media/bg-240sx.jpg": "/Gump0/import-bazaar/static/media/bg-240sx.7c12ac47609a2549cb15.jpg",
+    "static/media/bg-s2k.jpg": "/Gump0/import-bazaar/static/media/bg-s2k.a8e6dba53fb5ca6e9864.jpg",
+    "index.html": "/Gump0/import-bazaar/index.html",
+    "main.1ca119df.css.map": "/Gump0/import-bazaar/static/css/main.1ca119df.css.map",
+    "main.7b99b1cd.js.map": "/Gump0/import-bazaar/static/js/main.7b99b1cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ca119df.css",
+    "static/js/main.7b99b1cd.js"
+  ]
+}
